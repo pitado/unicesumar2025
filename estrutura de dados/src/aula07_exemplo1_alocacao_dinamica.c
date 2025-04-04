@@ -13,8 +13,8 @@ int main(void){
         return 1;
     }
 
-por que ponteiro na esquerda e nao na direta?
-posso alocar valores genericos?
+//por que ponteiro na esquerda e nao na direta?
+//clsposso alocar valores genericos?
     // 4. ler e apresentar o dado
     printf("Informe um número: ");
     scanf("%d", numero); // 5. não é necessário o "&", pois "numero" já cotem um endereço
