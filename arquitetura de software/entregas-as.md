@@ -1,4 +1,4 @@
-### Lista com as próximas entregas da disciplina
+## Lista com as próximas entregas da disciplina
 
 Atividade 03 - Cliente-Servidor: Até 14/04/2025 as 19:00
 Atividade 04 - Log Manager: Até 14/04/2025 as 19:00
