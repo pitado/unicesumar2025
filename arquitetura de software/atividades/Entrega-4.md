@@ -16,5 +16,5 @@ Assim, seguindo o exemplo que foi passando em sala, realize as seguintes tarefas
 4. [PONTO EXTRA] Considerando a importância dos logs, seria interessa se TODAS as classes do sistemas pudessem fornecer seus próprios logs. Como desafio e valendo e valendo um 0.5pts extra, implemente uma solução para que cada classe possa forncer uma mensagem de log. Um único *LogManager* deve ser dever ser capaz de gerenciar todas as classes.
 
 #### Entrega
-Faça o upload do projeto através do form https://forms.gle/jkALAe22rhDadFWB8 até as 19:00 do dia 14/04/2025 (Segunda-Feira). Adicione um arquivo "*Readme*" ao zip do projeto.
+Faça o upload do projeto através do form https://forms.gle/jkALAe22rhDadFWB8 até as 19:00 do dia 14/04/2025 (Segunda-Feira). Adicione um arquivo "*Readme*" ao zip do projeto, explicando como o LogManager foi implementado.
 
