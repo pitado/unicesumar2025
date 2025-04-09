@@ -2,7 +2,7 @@
 Esse documento contém alguns links para materiais extras da disciplina. Caso tenham alguma ideia/sugestão de links para adicionar, me encaminhem por email que atulizo esse arquivo: joao.biazotto@unicesumar.edu.br
 
 ### Vídeo-aulas/exemplo
-- [Implementação do design patter *Factory Method* em Javascript](https://www.youtube.com/watch?v=arAz2Ff8s88). 
+- [Implementação do design pattern *Factory Method* em Javascript](https://www.youtube.com/watch?v=arAz2Ff8s88). 
     + Créditos: [Felipe Deschamps](https://www.youtube.com/@FilipeDeschamps).
 
 
