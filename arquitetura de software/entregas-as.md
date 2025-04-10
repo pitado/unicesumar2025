@@ -20,7 +20,10 @@ ___
 
 - Atividade 03 | Cliente-Servidor: Até 18/04/2025 as 23:59
 - Atividade 04 | Log Manager: Até 14/04/2025 as 23:59
-- Atividade 05 | Factory Method: 21/04/2025 as 23:59
+- Atividade 05 | Factory Method - Preliminar: 14/04/2025 as 23:59
+    + Descrição de onde a funcionalidade vai ser implementada
+    + Criação dos componentes do padrão Factory
+- Atividade 06 | Factory Method: 21/04/2025 as 23:59
 
 ___
 
