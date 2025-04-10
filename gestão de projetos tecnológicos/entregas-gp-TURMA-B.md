@@ -9,7 +9,7 @@ ___
     + Entrega de todos os níveis da EAP, com o dicionário para os pacotes de trabalho.
     + Para a entrega desse trabalho, utilize o link: https://forms.gle/zEcEoChg6Sp9XCPq7
 
-[comment]: <> (Adicionar entregas concluídas sempre abaixo desse comentário)
+#### Entregas finalizadas
 
 - ~~EAP Preliminar - Até o fim da aula do dia 09/04/2025~~
     + ~~Entregar todos os níveis de uma divisão da EAP (exemplo: todos os níveis do backend)~~
