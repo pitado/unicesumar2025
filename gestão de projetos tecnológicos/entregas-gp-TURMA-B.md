@@ -3,13 +3,13 @@ ___
 
 #### Entregas em andamento
 
-- Timeline preliminar - Até 11/04/2025 as 23:59
-    + Entrega de uma timeline como a construída em sala, contendo importantes milestones do projeto;
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/C4t79ded9qJmMcwu9
-
 - Trabalho do Bimestre: Até 14/04/2025 as 23:59
     + ([LISTA DE ENTREGÁVEIS](https://github.com/biazottoj/unicesumar2025/blob/main/gest%C3%A3o%20de%20projetos%20tecnol%C3%B3gicos/atividades/Entrega%20do%20Projeto%20Gerenciamento%20de%20projetos%20Tecnolo%CC%81gicos%20-%20Primeiro%20Bimestre%20-%202025.pdf)). 
-    + Para a entrega desse trabalho, utilize o link:  
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/UuYDd2gPhJ8mZvmr9
+
+- Timeline preliminar - Até 16/04/2025 as 23:59
+    + Entrega de uma timeline como a construída em sala, contendo importantes milestones do projeto;
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/C4t79ded9qJmMcwu9
 
 - EAP Completa - Até 22/04/2025 as 23:59
     + Entrega de todos os níveis da EAP, com o dicionário para os pacotes de trabalho.
