@@ -5,6 +5,9 @@ Esse documento contém alguns links para materiais extras da disciplina. Caso te
 - [Implementação do design pattern *Factory Method* em Javascript](https://www.youtube.com/watch?v=arAz2Ff8s88). 
     + Créditos: [Felipe Deschamps](https://www.youtube.com/@FilipeDeschamps).
 
+- [Explicação e implementação do design pattern *Observer*](https://www.youtube.com/watch?v=ioYkXh8NhKc)
+    + Créditos: [Código Fonte TV](https://www.youtube.com/@codigofontetv).
+
 
 
 ### Tech/Engineering Blogs
