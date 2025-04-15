@@ -12,10 +12,10 @@ ___
     + Para a entrega desse trabalho, utilize o link: https://forms.gle/AiyL7DJDwyPUqhaY9
 
 #### Entregas finalizadas
-- ~~EAP Preliminar - Até o fim da aula do dia 10/04/2025 ~~
-    + ~~ Entregar todos os níveis de uma divisão da EAP (exemplo: todos os níveis do backend) ~~
-    + ~~ Explicação se a EAP foi decomposta por produto (partes do software) ou fases (fases do projeto) ~~
-    + ~~ Para a entrega desse trabalho, utilize o link: https://forms.gle/deaPvYoR1eAgZUFp6 ~~
+- ~~EAP Preliminar - Até o fim da aula do dia 10/04/2025~~
+    + ~~Entregar todos os níveis de uma divisão da EAP (exemplo: todos os níveis do backend)~~
+    + ~~Explicação se a EAP foi decomposta por produto (partes do software) ou fases (fases do projeto)~~
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/deaPvYoR1eAgZUFp6~~
 ___
 
 Como discutido em sala, as atividades feitas em sala precisam ser entregues ao final da aula. Após isso, o formulário será encerrado (salvo alguma orientação diferente dada em sala). Todas essas atividades irão conter a marcação *"(aula)"* ao final do enunciado.
