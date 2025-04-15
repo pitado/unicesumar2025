@@ -3,8 +3,8 @@ ___
 
 #### Entregas em andamento
 
-- Trabalho do Bimestre: Até 14/04/2025 as 23:59
-    + ([LISTA DE ENTREGÁVEIS](https://github.com/biazottoj/unicesumar2025/blob/main/gest%C3%A3o%20de%20projetos%20tecnol%C3%B3gicos/atividades/Entrega%20do%20Projeto%20Gerenciamento%20de%20projetos%20Tecnolo%CC%81gicos%20-%20Primeiro%20Bimestre%20-%202025.pdf)). 
+- Trabalho do Bimestre: Até 15/04/2025 as 23:59
+    + [LISTA DE ENTREGÁVEIS](https://github.com/biazottoj/unicesumar2025/blob/main/gest%C3%A3o%20de%20projetos%20tecnol%C3%B3gicos/atividades/Entrega%20do%20Projeto%20Gerenciamento%20de%20projetos%20Tecnolo%CC%81gicos%20-%20Primeiro%20Bimestre%20-%202025.pdf). 
     + Para a entrega desse trabalho, utilize o link: https://forms.gle/UuYDd2gPhJ8mZvmr9
 
 - EAP Completa - Até 21/04/2025 as 23:59
@@ -18,6 +18,8 @@ ___
     ~~ + Para a entrega desse trabalho, utilize o link: https://forms.gle/deaPvYoR1eAgZUFp6 ~~
 ___
 
-OBS: para garantir a nota integral, faça a entrega até as datas indicadas acima. Entregas feitas após o prazo serão descontadas:
-- 30% se entregues até UMA semana após o prazo;
-- 50% a partir de UMA semana após o prazo. 
+Como discutido em sala, as atividades feitas em sala precisam ser entregues ao final da aula. Após isso, o formulário será encerrado (salvo alguma orientação diferente dada em sala). Todas essas atividades irão conter a marcação *"(aula)"* ao final do enunciado.
+
+Atividades com prazo de entrega (isso é, a serem feitas fora do horário de aula), podem ser entregues após o prazo, seguindo a seguinte regra:
+- Desconto de 30% se entregues até UMA semana após o prazo;
+- Desconto de 50% a partir de UMA semana após o prazo. 

@@ -18,17 +18,19 @@ Esse documento contém a lista das próximas entregas da disciplina de Arquitetu
 ___
 #### Atividades em Andamento
 
-- Atividade 04 | Log Manager: Até 14/04/2025 as 23:59
-- Atividade 05 | Factory Method - Preliminar: 14/04/2025 as 23:59
+- Atividade 03 | Cliente-Servidor: Até 18/04/2025 as 23:59
+- Atividade 04 | Log Manager: Até 18/04/2025 as 23:59
+- Atividade 05 | Factory Method - Preliminar: Até 18/04/2025 as 23:59
     + Descrição de onde a funcionalidade vai ser implementada
     + Criação dos componentes do padrão Factory
-- Atividade 03 | Cliente-Servidor: Até 18/04/2025 as 23:59
-- Atividade 06 | Factory Method: 21/04/2025 as 23:59
+- Atividade 06 | Factory Method: 28/04/2025 as 23:59
 ___
 #### Atividades Finalizadas
 
 ___
 
-OBS: para garantir a nota integral, faça a entrega até as datas indicadas acima. Entregas feitas após o prazo serão descontadas:
-- 30% se entregues até UMA semana após o prazo;
-- 50% a partir de UMA semana após o prazo. 
+Como discutido em sala, as atividades feitas em sala precisam ser entregues ao final da aula. Após isso, o formulário será encerrado (salvo alguma orientação diferente dada em sala). Todas essas atividades irão conter a marcação *"(aula)"* ao final do enunciado.
+
+Atividades com prazo de entrega (isso é, a serem feitas fora do horário de aula), podem ser entregues após o prazo, seguindo a seguinte regra:
+- Desconto de 30% se entregues até UMA semana após o prazo;
+- Desconto de 50% a partir de UMA semana após o prazo. 
