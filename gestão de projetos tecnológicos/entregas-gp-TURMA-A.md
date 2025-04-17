@@ -12,11 +12,11 @@ ___
 
 #### Entregas finalizadas
 
-- ~~ Trabalho do Bimestre: Até 15/04/2025 as 23:59                                                                                                   ~~
-    + ~~ [LISTA DE ENTREGÁVEIS](https://github.com/biazottoj/unicesumar2025/blob/main/gest%C3%A3o%20de%20projetos%20tecnol%C3%B3gicos/atividades/Ent ~~rega%20do%20Projeto%20Gerenciamento%20de%20projetos%20Tecnolo%CC%81gicos%20-%20Primeiro%20Bimestre%20-%202025.pdf). 
-    + ~~ Para a entrega desse trabalho, utilize o link: https://forms.gle/UuYDd2gPhJ8mZvmr9 ~~
+- ~~Trabalho do Bimestre: Até 15/04/2025 as 23:59~~
+    + ~~[LISTA DE ENTREGÁVEIS](https://github.com/biazottoj/unicesumar2025/blob/main/gest%C3%A3o%20de%20projetos%20tecnol%C3%B3gicos/atividades/Ent rega%20do%20Projeto%20Gerenciamento%20de%20projetos%20Tecnolo%CC%81gicos%20-%20Primeiro%20Bimestre%20-%202025.pdf).~~ 
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/UuYDd2gPhJ8mZvmr9~~
 
-- ~~EAP Preliminar (aula)- Até o fim da aula do dia 10/04/2025~~
+- ~~EAPPreliminar (aula)- Até o fim da aula do dia 10/04/2025~~
     + ~~Entregar todos os níveis de uma divisão da EAP (exemplo: todos os níveis do backend)~~
     + ~~Explicação se a EAP foi decomposta por produto (partes do software) ou fases (fases do projeto)~~
     + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/deaPvYoR1eAgZUFp6~~
