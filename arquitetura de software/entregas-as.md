@@ -16,14 +16,15 @@ Esse documento contém a lista das próximas entregas da disciplina de Arquitetu
 
     + __Informações Necessárias:__ Preencha os campos com o nome e o RA de cada integrante do grupo, organizados em ordem alfabética, e informe a turma na qual o grupo está matriculado.
 ___
-#### Atividades em Andamento
+#### Atividades em Andamento (ordenadas por data de entrega)
 
+- Atividade 07 | Strategy (aula): 17/04/2025 as 23:59
 - Atividade 03 | Cliente-Servidor: Até 18/04/2025 as 23:59
 - Atividade 04 | Log Manager: Até 18/04/2025 as 23:59
 - Atividade 05 | Factory Method - Preliminar: Até 18/04/2025 as 23:59
     + Descrição de onde a funcionalidade vai ser implementada
     + Criação dos componentes do padrão Factory
-- Atividade 06 | Factory Method: 28/04/2025 as 23:59
+- Atividade 06 | Factory Method (completa): 28/04/2025 as 23:59
 ___
 #### Atividades Finalizadas
 

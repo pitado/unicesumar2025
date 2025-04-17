@@ -17,9 +17,6 @@ struct Pessoa{
 
 
 int main(int argc, char *argv[]){
-     
 
-     
-     printf("Informe o nome: ");
 
 }
