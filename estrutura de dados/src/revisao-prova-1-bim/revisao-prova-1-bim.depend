@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745072546 source:c:\users\p308291\documents\unicesumar2025\estrutura de dados\src\revisao-prova-1-bim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
