@@ -11,7 +11,7 @@ ___
 
 - ~~Atividade 08 - Desgin Pattern Adapter - Até 29/04/2025 as 23:59~~                                                 
     + ~~Entrega da lista de exercícios~~
-    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/bZg2dn3aEVinNyzj7~~ 
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/t8eMwPGNnjeHjAVT9~~ 
 
 ___
 
