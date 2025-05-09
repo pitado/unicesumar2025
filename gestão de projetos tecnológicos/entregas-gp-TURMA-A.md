@@ -2,15 +2,24 @@
 ___
 
 #### Entregas em andamento
-- Timeline preliminar (aula) - Até 17/04/2025 as 23:59                                                
-    + Entrega de uma timeline como a construída em sala, contendo importantes milestones do projeto; 
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/bZg2dn3aEVinNyzj7 
+- Cronograma - Até 08/05/2025 as 23:59                                                
+    + Construir tabela com: id da atividade, descrição da tarefa, duração, predecessora e tipo de dependência (slides 29 e 41)
+    + Identificar o caminho crítico do projeto
+    + Utilizar a técnica de três pontos para estimar a duração de pelo menos 1 atividade (slide 37)
+    + Crie um documento no Google Docs ou no Github; 
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/vpoAAWy66N8aA6b78
+    + ENTREGUEM O QUE CONSEGUIREM CONCLUIR ATÉ O FIM DA AULA DO DIA 08/05/2025
 
-- EAP Completa - Até 22/04/2025 as 23:59
-    + Entrega de todos os níveis da EAP, com o dicionário para os pacotes de trabalho.
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/AiyL7DJDwyPUqhaY9
 
 #### Entregas finalizadas
+
+- ~~Timeline preliminar (aula) - Até 17/04/2025 as 23:59~~                                                
+    + ~~Entrega de uma timeline como a construída em sala, contendo importantes milestones do projeto;~~ 
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/bZg2dn3aEVinNyzj7~~ 
+
+- ~~EAP Completa - Até 22/04/2025 as 23:59
+    + ~~Entrega de todos os níveis da EAP, com o dicionário para os pacotes de trabalho.~~
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/AiyL7DJDwyPUqhaY9~~
 
 - ~~Trabalho do Bimestre: Até 15/04/2025 as 23:59~~
     + ~~[LISTA DE ENTREGÁVEIS](https://github.com/biazottoj/unicesumar2025/blob/main/gest%C3%A3o%20de%20projetos%20tecnol%C3%B3gicos/atividades/Entrega%20do%20Projeto%20Gerenciamento%20de%20projetos%20Tecnolo%CC%81gicos%20-%20Primeiro%20Bimestre%20-%202025.pdf).~~ 
