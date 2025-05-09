@@ -3,11 +3,21 @@ ___
 
 #### Entregas em andamento
 
-- EAP Completa - Até 22/04/2025 as 23:59
-    + Entrega de todos os níveis da EAP, com o dicionário para os pacotes de trabalho.
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/zEcEoChg6Sp9XCPq7
+- Cronograma - Até 09/05/2025 as 23:59                                                
+    + Construir tabela com: id da atividade, descrição da tarefa, duração, predecessora e tipo de dependência (slides 29 e 41)
+    + Identificar o caminho crítico do projeto
+    + Utilizar a técnica de três pontos para estimar a duração de pelo menos 1 atividade (slide 37)
+    + Pode utilizar essa tabela como template: https://docs.google.com/spreadsheets/d/1zcSKKimxcq5aW4yYDNicSYKP-ESIE3t_a9qxM61bUO0/edit?usp=sharing
+    + Crie uma cópia do template anterior, e compartilhe o link.
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/vpoAAWy66N8aA6b78
+    + ENTREGUEM O QUE CONSEGUIREM CONCLUIR ATÉ O FIM DA AULA DO DIA 09/05/2025
 
 #### Entregas finalizadas
+
+- ~~EAP Completa - Até 22/04/2025 as 23:59~~
+    + ~~Entrega de todos os níveis da EAP, com o dicionário para os pacotes de trabalho.~~
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/zEcEoChg6Sp9XCPq7~~
+
 - ~~Timeline preliminar (aula) - Até 16/04/2025 as 23:59~~
     + ~~Entrega de uma timeline como a construída em sala, contendo importantes milestones do projeto~~
     + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/C4t79ded9qJmMcwu9~~
