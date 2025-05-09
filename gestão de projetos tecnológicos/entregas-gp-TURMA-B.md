@@ -9,7 +9,7 @@ ___
     + Utilizar a técnica de três pontos para estimar a duração de pelo menos 1 atividade (slide 37)
     + Pode utilizar essa tabela como template: https://docs.google.com/spreadsheets/d/1zcSKKimxcq5aW4yYDNicSYKP-ESIE3t_a9qxM61bUO0/edit?usp=sharing
     + Crie uma cópia do template anterior, e compartilhe o link.
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/vpoAAWy66N8aA6b78
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/Bk1BFVxp2SF2wVm19
     + ENTREGUEM O QUE CONSEGUIREM CONCLUIR ATÉ O FIM DA AULA DO DIA 09/05/2025
 
 #### Entregas finalizadas
