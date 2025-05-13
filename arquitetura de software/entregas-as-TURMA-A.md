@@ -3,11 +3,14 @@ ___
 
 #### Entregas em andamento
 
-- Atividade 09 - Desgin Pattern Adapter - Até 08/05/2025 as 23:59                                                 
-    + Entrega da implementação do design pattern adapter
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/9FBPp2ztRstZGbhJ6 
+- Atividade 10 - Arquitetura Orientada a Serviços - Até 13/05/2025 as 23:59                                                 
+    + Entrega da implementação do aplicativo de tendencias de nomes, utilizando SOA.
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/k22CgAAfpMvvY9Qt6
 
 #### Entregas finalizadas
+- ~~Atividade 09 - Desgin Pattern Adapter - Até 08/05/2025 as 23:59~~                                                 
+    + ~~Entrega da implementação do design pattern adapter~~
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/9FBPp2ztRstZGbhJ6~~ 
 
 - ~~Atividade 08 - Desgin Pattern Adapter - Até 29/04/2025 as 23:59~~                                                 
     + ~~Entrega da lista de exercícios~~
