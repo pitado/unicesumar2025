@@ -3,7 +3,13 @@ ___
 
 #### Entregas em andamento
 
-
+- Cronograma + Diagrama de Gantt - Até 22/05/2025 as 23:59                                               
+    + Finalizar tabela com atividades
+    + Estimar duração de cada atividade com PERT
+    + Definir as dependências de todas as atividades
+    + Construir diagrama de Gantt
+    + Atividade vale 0,5 pontos da parte prática da disciplina
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/MYp5rTJoEkC1HjRf6
 
 #### Entregas finalizadas
 
@@ -12,6 +18,7 @@ ___
     + ~~Identificar o caminho crítico do projeto~~
     + ~~Utilizar a técnica de três pontos para estimar a duração de pelo menos 1 atividade (slide 37)~~
     + ~~Crie um documento no Google Docs ou no Github~~ 
+    + ~~Pode utilizar essa tabela como template: https://docs.google.com/spreadsheets/d/1zcSKKimxcq5aW4yYDNicSYKP-ESIE3t_a9qxM61bUO0/edit?usp=sharing~~
     + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/vpoAAWy66N8aA6b78~~
     + ~~ENTREGUEM O QUE CONSEGUIREM CONCLUIR ATÉ O FIM DA AULA DO DIA 08/05/2025~~
 

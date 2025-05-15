@@ -3,16 +3,24 @@ ___
 
 #### Entregas em andamento
 
-- Cronograma - Até 09/05/2025 as 23:59                                                
-    + Construir tabela com: id da atividade, descrição da tarefa, duração, predecessora e tipo de dependência (slides 29 e 41)
-    + Identificar o caminho crítico do projeto
-    + Utilizar a técnica de três pontos para estimar a duração de pelo menos 1 atividade (slide 37)
-    + Pode utilizar essa tabela como template: https://docs.google.com/spreadsheets/d/1zcSKKimxcq5aW4yYDNicSYKP-ESIE3t_a9qxM61bUO0/edit?usp=sharing
-    + Crie uma cópia do template anterior, e compartilhe o link.
-    + Para a entrega desse trabalho, utilize o link: https://forms.gle/Bk1BFVxp2SF2wVm19
-    + ENTREGUEM O QUE CONSEGUIREM CONCLUIR ATÉ O FIM DA AULA DO DIA 09/05/2025
+- Cronograma + Diagrama de Gantt - Até 23/05/2025 as 23:59                                               
+    + Finalizar tabela com atividades
+    + Estimar duração de cada atividade com PERT
+    + Definir as dependências de todas as atividades
+    + Construir diagrama de Gantt
+    + Atividade vale 0,5 pontos da parte prática da disciplina
+    + Para a entrega desse trabalho, utilize o link: https://forms.gle/WB9fCu2RxaTpabPN9
 
 #### Entregas finalizadas
+
+- ~~Cronograma - Até 09/05/2025 as 23:59~~                                                
+    + ~~Construir tabela com: id da atividade, descrição da tarefa, duração, predecessora e tipo de dependência (slides 29 e 41)~~
+    + ~~Identificar o caminho crítico do projeto~~
+    + ~~Utilizar a técnica de três pontos para estimar a duração de pelo menos 1 atividade (slide 37)~~
+    + ~~Pode utilizar essa tabela como template: https://docs.google.com/spreadsheets/d/1zcSKKimxcq5aW4yYDNicSYKP-ESIE3t_a9qxM61bUO0/edit?usp=sharing~~
+    + ~~Crie uma cópia do template anterior, e compartilhe o link.~~
+    + ~~Para a entrega desse trabalho, utilize o link: https://forms.gle/Bk1BFVxp2SF2wVm19~~
+    + ~~ENTREGUEM O QUE CONSEGUIREM CONCLUIR ATÉ O FIM DA AULA DO DIA 09/05/2025~~
 
 - ~~EAP Completa - Até 22/04/2025 as 23:59~~
     + ~~Entrega de todos os níveis da EAP, com o dicionário para os pacotes de trabalho.~~
