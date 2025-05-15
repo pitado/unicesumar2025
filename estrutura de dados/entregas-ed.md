@@ -4,7 +4,7 @@ Esse documento contém a lista das próximas entregas da disciplina de Arquitetu
 
 #### Entregas em andamento
 
-- Atividade 03 - Menu - Até 23/05/2025 as 23:59                                                 
+- Atividade 03 - Lista de atividades sobre pilhas - Até 23/05/2025 as 23:59                                                 
     + Utilizado o código que permite criar múltiplas pilhas estáticas, realize as atividades da Lista 03.
     + A lista de exercícios pode ser acessada aqui: https://github.com/biazottoj/unicesumar2025/blob/main/estrutura%20de%20dados/atividades/Lista%2003%20-%20Atividades%20Pilha.pdf
     + A pilha implementada em sala pode ser acessada nesse link: https://github.com/biazottoj/unicesumar2025/blob/main/estrutura%20de%20dados/src/multiplas-pilhas.c.txt  
