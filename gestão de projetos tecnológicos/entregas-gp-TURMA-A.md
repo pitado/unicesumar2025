@@ -8,6 +8,7 @@ ___
     + Estimar duração de cada atividade com PERT
     + Definir as dependências de todas as atividades
     + Construir diagrama de Gantt
+    + Ferramenta para criar o diagrama: https://www.onlinegantt.com/#/gantt
     + Atividade vale 0,5 pontos da parte prática da disciplina
     + Para a entrega desse trabalho, utilize o link: https://forms.gle/MYp5rTJoEkC1HjRf6
 
