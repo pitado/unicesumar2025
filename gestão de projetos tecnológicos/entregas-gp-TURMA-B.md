@@ -5,9 +5,10 @@ ___
 
 - Cronograma + Diagrama de Gantt - Até 23/05/2025 as 23:59                                               
     + Finalizar tabela com atividades
-    + Estimar duração de cada atividade com PERT
-    + Definir as dependências de todas as atividades
-    + Construir diagrama de Gantt
+    + Definir as dependências de todas as atividades (Aula 12, Slide 23)
+    + Estimar duração de cada atividade com PERT (Aula 12, Slide 36)
+    + Construir diagrama de Gantt (Aula 13)
+    + Ferramenta para criar o diagrama: https://www.onlinegantt.com/#/gantt
     + Atividade vale 0,5 pontos da parte prática da disciplina
     + Para a entrega desse trabalho, utilize o link: https://forms.gle/WB9fCu2RxaTpabPN9
 
