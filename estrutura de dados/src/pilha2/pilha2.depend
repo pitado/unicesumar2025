@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747768832 source:c:\users\p308291\documents\unicesumar2025\estrutura de dados\src\pilha2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
