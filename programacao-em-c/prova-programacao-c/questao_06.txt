@@ -1,0 +1,2 @@
+Questao 6 - Saida:
+Maior que 3
